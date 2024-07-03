@@ -46,7 +46,5 @@ def hasCycle(head):
 # Review / Evaluate 
 """
 Time complexity: O(n) 
-Space complexity: O(1) 
-Pros and Cons: 
-- cons: must work sequentially 
+Space complexity: O(1)
 """
